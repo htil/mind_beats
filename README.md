@@ -1,9 +1,3 @@
-# Name of team members
-1:- Pranay Joshi <br>
-2:- Gaurav Shrivastava <br>
-3:- Kavya Gupta <br>
-4:- Priyanshu Sethi <br>
-
 # Purpose of project
 The purpose of this project is to revolutionize music recommendation systems by integrating neuroscience and artificial intelligence to create playlists that respond to real-time emotional states. Unlike traditional recommendation models that rely on listening history and genre preferences, *Mind Beats* leverages Brain-Computer Interface (BCI) technology to analyze EEG signals and determine a user's mood with high accuracy. By doing so, it aims to break the restrictive feedback loops of conventional algorithms and instead offer a deeply personalized listening experience that enhances positive emotions and alleviates negative ones. This innovation not only redefines how music is consumed but also explores its potential as a tool for emotional well-being, paving the way for future advancements in neuro-adaptive technology.
 
@@ -28,3 +22,9 @@ OpenAI, Muse
 * ```git add .```
 * ```git commit -m "<your-text>"```
 * ```git push```
+
+# Contributers
+1:- Pranay Joshi <br>
+2:- Gaurav Shrivastava <br>
+3:- Kavya Gupta <br>
+4:- Priyanshu Sethi <br>
